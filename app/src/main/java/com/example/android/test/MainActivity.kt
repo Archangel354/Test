@@ -7,9 +7,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
-
-
     // this sucks
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
